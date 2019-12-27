@@ -1,0 +1,9 @@
+ {
+ 	"name": "John",
+ 	"age": 30,
+ 	"car": {
+ 		"brand": "Ford",
+ 		"year": "1990",
+ 		"model": "Focus"
+ 	}
+ }

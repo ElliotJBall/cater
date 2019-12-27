@@ -1,0 +1,1647 @@
+{
+    "count": 32,
+    "filters": {
+        "dateFrom": "2000-01-20",
+        "dateTo": "2000-01-30",
+        "permission": "TIER_ONE",
+        "status": [
+            "FINISHED"
+        ]
+    },
+    "matches": [
+        {
+            "id": 64977,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League"
+            },
+            "season": {
+                "id": 273,
+                "startDate": "1999-08-07",
+                "endDate": "2000-05-14",
+                "currentMatchday": null,
+                "winner": {
+                    "id": 66,
+                    "name": "Manchester United FC",
+                    "shortName": "Man United",
+                    "tla": "MUN",
+                    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg"
+                }
+            },
+            "utcDate": "2000-01-22T15:30:00Z",
+            "status": "FINISHED",
+            "matchday": 22,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-07-12T16:54:56Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 3,
+                    "awayTeam": 2
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 1067,
+                "name": "Bradford City AFC"
+            },
+            "awayTeam": {
+                "id": 346,
+                "name": "Watford FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 64983,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League"
+            },
+            "season": {
+                "id": 273,
+                "startDate": "1999-08-07",
+                "endDate": "2000-05-14",
+                "currentMatchday": null,
+                "winner": {
+                    "id": 66,
+                    "name": "Manchester United FC",
+                    "shortName": "Man United",
+                    "tla": "MUN",
+                    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg"
+                }
+            },
+            "utcDate": "2000-01-22T15:30:00Z",
+            "status": "FINISHED",
+            "matchday": 23,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-07-12T16:54:56Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 347,
+                "name": "AFC Wimbledon"
+            },
+            "awayTeam": {
+                "id": 67,
+                "name": "Newcastle United FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 64978,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League"
+            },
+            "season": {
+                "id": 273,
+                "startDate": "1999-08-07",
+                "endDate": "2000-05-14",
+                "currentMatchday": null,
+                "winner": {
+                    "id": 66,
+                    "name": "Manchester United FC",
+                    "shortName": "Man United",
+                    "tla": "MUN",
+                    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg"
+                }
+            },
+            "utcDate": "2000-01-22T15:30:00Z",
+            "status": "FINISHED",
+            "matchday": 22,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-07-12T16:54:56Z",
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 342,
+                "name": "Derby County FC"
+            },
+            "awayTeam": {
+                "id": 1076,
+                "name": "Coventry City FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 64979,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League"
+            },
+            "season": {
+                "id": 273,
+                "startDate": "1999-08-07",
+                "endDate": "2000-05-14",
+                "currentMatchday": null,
+                "winner": {
+                    "id": 66,
+                    "name": "Manchester United FC",
+                    "shortName": "Man United",
+                    "tla": "MUN",
+                    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg"
+                }
+            },
+            "utcDate": "2000-01-22T15:30:00Z",
+            "status": "FINISHED",
+            "matchday": 22,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-07-12T16:54:56Z",
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 3
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 338,
+                "name": "Leicester City FC"
+            },
+            "awayTeam": {
+                "id": 563,
+                "name": "West Ham United FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 64980,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League"
+            },
+            "season": {
+                "id": 273,
+                "startDate": "1999-08-07",
+                "endDate": "2000-05-14",
+                "currentMatchday": null,
+                "winner": {
+                    "id": 66,
+                    "name": "Manchester United FC",
+                    "shortName": "Man United",
+                    "tla": "MUN",
+                    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg"
+                }
+            },
+            "utcDate": "2000-01-22T15:30:00Z",
+            "status": "FINISHED",
+            "matchday": 22,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-07-12T16:54:56Z",
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 64,
+                "name": "Liverpool FC"
+            },
+            "awayTeam": {
+                "id": 343,
+                "name": "Middlesbrough FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 64981,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League"
+            },
+            "season": {
+                "id": 273,
+                "startDate": "1999-08-07",
+                "endDate": "2000-05-14",
+                "currentMatchday": null,
+                "winner": {
+                    "id": 66,
+                    "name": "Manchester United FC",
+                    "shortName": "Man United",
+                    "tla": "MUN",
+                    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg"
+                }
+            },
+            "utcDate": "2000-01-22T15:30:00Z",
+            "status": "FINISHED",
+            "matchday": 23,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-07-12T16:54:56Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 340,
+                "name": "Southampton FC"
+            },
+            "awayTeam": {
+                "id": 62,
+                "name": "Everton FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 54379,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-22T15:30:00Z",
+            "status": "FINISHED",
+            "matchday": 20,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:56Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 560,
+                "name": "RC Deportivo La Coruña"
+            },
+            "awayTeam": {
+                "id": 90,
+                "name": "Real Betis Balompié"
+            },
+            "referees": []
+        },
+        {
+            "id": 64982,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League"
+            },
+            "season": {
+                "id": 273,
+                "startDate": "1999-08-07",
+                "endDate": "2000-05-14",
+                "currentMatchday": null,
+                "winner": {
+                    "id": 66,
+                    "name": "Manchester United FC",
+                    "shortName": "Man United",
+                    "tla": "MUN",
+                    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg"
+                }
+            },
+            "utcDate": "2000-01-22T15:30:00Z",
+            "status": "FINISHED",
+            "matchday": 23,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-07-12T16:54:56Z",
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 73,
+                "name": "Tottenham Hotspur FC"
+            },
+            "awayTeam": {
+                "id": 345,
+                "name": "Sheffield Wednesday FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 64976,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League"
+            },
+            "season": {
+                "id": 273,
+                "startDate": "1999-08-07",
+                "endDate": "2000-05-14",
+                "currentMatchday": null,
+                "winner": {
+                    "id": 66,
+                    "name": "Manchester United FC",
+                    "shortName": "Man United",
+                    "tla": "MUN",
+                    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg"
+                }
+            },
+            "utcDate": "2000-01-22T15:30:00Z",
+            "status": "FINISHED",
+            "matchday": 22,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-07-12T16:54:56Z",
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 58,
+                "name": "Aston Villa FC"
+            },
+            "awayTeam": {
+                "id": 61,
+                "name": "Chelsea FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 54381,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-23T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 21,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:57Z",
+            "score": {
+                "winner": "DRAW",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 78,
+                "name": "Club Atlético de Madrid"
+            },
+            "awayTeam": {
+                "id": 92,
+                "name": "Real Sociedad de Fútbol"
+            },
+            "referees": []
+        },
+        {
+            "id": 54387,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-23T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 21,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:56Z",
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 559,
+                "name": "Sevilla FC"
+            },
+            "awayTeam": {
+                "id": 558,
+                "name": "RC Celta de Vigo"
+            },
+            "referees": []
+        },
+        {
+            "id": 54386,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-23T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 21,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:56Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 1048,
+                "name": "Real Oviedo"
+            },
+            "awayTeam": {
+                "id": 91,
+                "name": "Real Zaragoza"
+            },
+            "referees": []
+        },
+        {
+            "id": 54382,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-23T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 21,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:57Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 81,
+                "name": "FC Barcelona"
+            },
+            "awayTeam": {
+                "id": 85,
+                "name": "Yaxley FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 64984,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League"
+            },
+            "season": {
+                "id": 273,
+                "startDate": "1999-08-07",
+                "endDate": "2000-05-14",
+                "currentMatchday": null,
+                "winner": {
+                    "id": 66,
+                    "name": "Manchester United FC",
+                    "shortName": "Man United",
+                    "tla": "MUN",
+                    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg"
+                }
+            },
+            "utcDate": "2000-01-23T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 23,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-07-12T16:54:57Z",
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 2
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 71,
+                "name": "Sunderland AFC"
+            },
+            "awayTeam": {
+                "id": 341,
+                "name": "Leeds United AFC"
+            },
+            "referees": []
+        },
+        {
+            "id": 54388,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-23T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 21,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:56Z",
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 2
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 95,
+                "name": "Valencia CF"
+            },
+            "awayTeam": {
+                "id": 80,
+                "name": "RCD Espanyol de Barcelona"
+            },
+            "referees": []
+        },
+        {
+            "id": 54383,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-23T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 21,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:56Z",
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 84,
+                "name": "Málaga CF"
+            },
+            "awayTeam": {
+                "id": 263,
+                "name": "Deportivo Alavés"
+            },
+            "referees": []
+        },
+        {
+            "id": 54384,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-23T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 21,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:56Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 89,
+                "name": "RCD Mallorca"
+            },
+            "awayTeam": {
+                "id": 87,
+                "name": "Rayo Vallecano de Madrid"
+            },
+            "referees": []
+        },
+        {
+            "id": 54380,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-23T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 20,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:57Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 77,
+                "name": "Athletic Club"
+            },
+            "awayTeam": {
+                "id": 250,
+                "name": "Real Valladolid CF"
+            },
+            "referees": []
+        },
+        {
+            "id": 54385,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-23T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 21,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:56Z",
+            "score": {
+                "winner": "DRAW",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 260,
+                "name": "CD Numancia"
+            },
+            "awayTeam": {
+                "id": 86,
+                "name": "Real Madrid CF"
+            },
+            "referees": []
+        },
+        {
+            "id": 64985,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League"
+            },
+            "season": {
+                "id": 273,
+                "startDate": "1999-08-07",
+                "endDate": "2000-05-14",
+                "currentMatchday": null,
+                "winner": {
+                    "id": 66,
+                    "name": "Manchester United FC",
+                    "shortName": "Man United",
+                    "tla": "MUN",
+                    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg"
+                }
+            },
+            "utcDate": "2000-01-24T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 23,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-07-12T16:54:57Z",
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 66,
+                "name": "Manchester United FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 54389,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-26T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 21,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:57Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 86,
+                "name": "Real Madrid CF"
+            },
+            "awayTeam": {
+                "id": 90,
+                "name": "Real Betis Balompié"
+            },
+            "referees": []
+        },
+        {
+            "id": 54391,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-29T15:30:00Z",
+            "status": "FINISHED",
+            "matchday": 22,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:57Z",
+            "score": {
+                "winner": "DRAW",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 80,
+                "name": "RCD Espanyol de Barcelona"
+            },
+            "awayTeam": {
+                "id": 81,
+                "name": "FC Barcelona"
+            },
+            "referees": []
+        },
+        {
+            "id": 64986,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League"
+            },
+            "season": {
+                "id": 273,
+                "startDate": "1999-08-07",
+                "endDate": "2000-05-14",
+                "currentMatchday": null,
+                "winner": {
+                    "id": 66,
+                    "name": "Manchester United FC",
+                    "shortName": "Man United",
+                    "tla": "MUN",
+                    "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg"
+                }
+            },
+            "utcDate": "2000-01-29T15:30:00Z",
+            "status": "FINISHED",
+            "matchday": 23,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-07-12T16:54:57Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 66,
+                "name": "Manchester United FC"
+            },
+            "awayTeam": {
+                "id": 343,
+                "name": "Middlesbrough FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 54390,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-29T15:30:00Z",
+            "status": "FINISHED",
+            "matchday": 21,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:57Z",
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 558,
+                "name": "RC Celta de Vigo"
+            },
+            "awayTeam": {
+                "id": 78,
+                "name": "Club Atlético de Madrid"
+            },
+            "referees": []
+        },
+        {
+            "id": 54397,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-30T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 22,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:57Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 92,
+                "name": "Real Sociedad de Fútbol"
+            },
+            "awayTeam": {
+                "id": 87,
+                "name": "Rayo Vallecano de Madrid"
+            },
+            "referees": []
+        },
+        {
+            "id": 54398,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-30T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 22,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:57Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 4,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 250,
+                "name": "Real Valladolid CF"
+            },
+            "awayTeam": {
+                "id": 560,
+                "name": "RC Deportivo La Coruña"
+            },
+            "referees": []
+        },
+        {
+            "id": 54392,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-30T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 22,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:57Z",
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 263,
+                "name": "Deportivo Alavés"
+            },
+            "awayTeam": {
+                "id": 95,
+                "name": "Valencia CF"
+            },
+            "referees": []
+        },
+        {
+            "id": 54393,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-30T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 22,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:57Z",
+            "score": {
+                "winner": "DRAW",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 90,
+                "name": "Real Betis Balompié"
+            },
+            "awayTeam": {
+                "id": 84,
+                "name": "Málaga CF"
+            },
+            "referees": []
+        },
+        {
+            "id": 54394,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-30T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 22,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:57Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 3,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 260,
+                "name": "CD Numancia"
+            },
+            "awayTeam": {
+                "id": 89,
+                "name": "RCD Mallorca"
+            },
+            "referees": []
+        },
+        {
+            "id": 54399,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-30T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 22,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:57Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 91,
+                "name": "Real Zaragoza"
+            },
+            "awayTeam": {
+                "id": 559,
+                "name": "Sevilla FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 54395,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-30T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 22,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:57Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 3,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 86,
+                "name": "Real Madrid CF"
+            },
+            "awayTeam": {
+                "id": 77,
+                "name": "Athletic Club"
+            },
+            "referees": []
+        },
+        {
+            "id": 54396,
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division"
+            },
+            "season": {
+                "id": 374,
+                "startDate": "1999-08-21",
+                "endDate": "2000-05-20",
+                "currentMatchday": null,
+                "winner": null
+            },
+            "utcDate": "2000-01-30T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 22,
+            "stage": null,
+            "group": null,
+            "lastUpdated": "2018-10-23T12:01:57Z",
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": null,
+                "fullTime": {
+                    "homeTeam": 3,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 85,
+                "name": "Yaxley FC"
+            },
+            "awayTeam": {
+                "id": 1048,
+                "name": "Real Oviedo"
+            },
+            "referees": []
+        }
+    ]
+}

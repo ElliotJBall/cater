@@ -73,6 +73,9 @@ def extract_classes_from_json(p_json: Dict, keys_props: Dict) -> Dict:
     p_json (str) -- The JSON
     keys_props (dict) -- The key is the complex objects name, value is the list of properties of that object.
     """
+    if 'TopLevelParent' not in keys_props:
+        keys_props['TopLevelParent'] = p_json
+
     for key in p_json.keys():
         if isinstance(p_json[key], list) and len(p_json[key]) > 1 and isinstance(p_json[key][0], dict):
             keys_props[key] = p_json[key][0]
