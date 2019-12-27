@@ -77,7 +77,7 @@ def extract_classes_from_json(p_json: Dict, keys_props: Dict) -> Dict:
         keys_props['TopLevelParent'] = p_json
 
     for key in p_json.keys():
-        if isinstance(p_json[key], list) and len(p_json[key]) > 1 and isinstance(p_json[key][0], dict):
+        if isinstance(p_json[key], list) and len(p_json[key]) >= 1 and isinstance(p_json[key][0], dict):
             keys_props[key] = p_json[key][0]
             extract_classes_from_json(p_json[key][0], keys_props)
         elif isinstance(p_json[key], dict):
