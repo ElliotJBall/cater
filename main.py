@@ -7,19 +7,32 @@ from typing import Dict
 OUTPUT_DIR = os.path.join(os.getcwd(), "output")
 
 
+def banner():
+    print("""
+ ______     ______     ______   ______     ______    
+/\  ___\   /\  __ \   /\__  _\ /\  ___\   /\  == \   
+\ \ \____  \ \  __ \  \/_/\ \/ \ \  __\   \ \  __<   
+ \ \_____\  \ \_\ \_\    \ \_\  \ \_____\  \ \_\ \_\ 
+  \/_____/   \/_/\/_/     \/_/   \/_____/   \/_/ /_/ 
+     """)
+
+
 def cater():
     remove_output_folder()
-
     os.makedirs(OUTPUT_DIR)
 
     parsed_json = get_json()
-    build_classes_from_json(parsed_json)
+    classes_props = extract_classes_from_json(parsed_json, {})
+
+    print('About to generate the following classes: {}'.format(classes_props.keys()))
+
+    for key_prop in classes_props.keys():
+        build_class(key_prop, classes_props[key_prop])
 
 
 def remove_output_folder():
     """Remove all files (and folders) from the output directory, then remove the output directory itself.
-     Taken directly from the Python docs:
-        https://docs.python.org/3/library/os.html#os.walk
+     Taken directly from the Python docs: https://docs.python.org/3/library/os.html#os.walk
      """
     for root, dirs, files in os.walk(OUTPUT_DIR, topdown=False):
         for name in files:
@@ -52,23 +65,23 @@ def get_json() -> Dict:
     return value
 
 
-def build_classes_from_json(p_json: Dict) -> None:
-    """Use the parsed JSON and generate the skeleton python classes.
+def extract_classes_from_json(p_json: Dict, keys_props: Dict) -> Dict:
+    """Recursively traverse JSON tree and check for child 'complex' objects (dicts), also
+    add them to the dict of classes that needs building.
 
     Keyword arguments:
-    p_json (str) -- The JSON in Dict format after being parsed by json.load / json.loads
+    p_json (str) -- The JSON
+    keys_props (dict) -- The key is the complex objects name, value is the list of properties of that object.
     """
-
-    # Build a class for each key in the incoming JSON whose value is a dict
-
-    # TODO - Nested dict's inside dict, traverse all child objects, create a stack to build in right order and have
-    #  parent -> child relationship
     for key in p_json.keys():
-
         if isinstance(p_json[key], list) and len(p_json[key]) > 1 and isinstance(p_json[key][0], dict):
-            build_class(key, p_json[key][0])
+            keys_props[key] = p_json[key][0]
+            extract_classes_from_json(p_json[key][0], keys_props)
         elif isinstance(p_json[key], dict):
-            build_class(key, p_json[key])
+            keys_props[key] = p_json[key]
+            extract_classes_from_json(p_json[key], keys_props)
+
+    return keys_props
 
 
 def build_class(key: str, p_dict: Dict) -> None:
@@ -89,7 +102,6 @@ def build_class(key: str, p_dict: Dict) -> None:
 
         for prop in p_dict.keys():
             prop = convert(prop)
-
             pyfile.write('        self.{} = kwargs.get(\'{}\', None)'.format(prop, prop))
             pyfile.write('\n')
 
@@ -109,4 +121,5 @@ def convert(word: str) -> str:
 
 
 if __name__ == "__main__":
+    banner()
     cater()
