@@ -46,7 +46,7 @@ obj = Toplevelparent(**json.loads(raw))
 ```
 4. Now you have a series of python classes representing the JSON:
 ```python
-print(obj.__dict__.get("name"), None)
+print(obj.name)
 > John
 ```
 
